@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @archibowl.
+- 👀 I’m interested in C#, Python, Java, JS and C++.
+- 🌱 I’m currently learning C#, Java and C++.
+- 💞️ I’m looking to collaborate on MyAssistant.
+- 📫 How to reach me archibowl@protonmail.com.
