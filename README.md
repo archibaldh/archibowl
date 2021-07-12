@@ -2,4 +2,4 @@
 - 👀 I’m interested in C#, HTML, CSS, and C++.
 - 🌱 I’m currently learning C# and C++.
 - 💞️ I’m looking to collaborate on MyAssistant.
-- 📫 You can reach me @ archibowl@protonmail.com.
+- 📫 You can reach me @ archibowl@pm.me
