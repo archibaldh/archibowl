@@ -5,7 +5,7 @@
 
 📫 You can reach me @ archibowl@pm.me.
 
-🐦 My twitter is [@archibowl](https://twitter.com/archibowl1).
+🐦 My twitter is [@archibowl1](https://twitter.com/archibowl1).
 
 🌐 I'm currently working on a website. (You can see my code in my repository titled archibowl-website)
 
