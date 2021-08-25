@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Archibowl.
-👀 I’m interested in C#, HTML, CSS, and C++.
+👀 I’m interested in C#, HTML, CSS, Kotlin, and C++.
 
 🌱 I’m currently learning C# and C++.
 
