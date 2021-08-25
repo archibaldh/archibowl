@@ -9,4 +9,4 @@
 
 🌐 I'm currently working on a website. (You can see my code in my repository titled archibowl-website)
 
-📧 I'm also currently working on a free and open source email client called Mailflow.
+🎙 I'm also working on a free and open source alternative to virtual assistants, myassistant
