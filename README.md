@@ -7,6 +7,6 @@
 
 🐦 My twitter is [@archibowltweets](https://twitter.com/archibowltweets).
 
-🌐 I'm currently working on a website. (You can see my code in my repository titled archibowl-website)
+🌐 I'm currently working on a website. 
 
-🎙 I'm also working on a free and open source alternative to virtual assistants, myassistant
+🎙 I'm also working on a minimalist new tab page. You can look at the source code and even install it yourself in my repository titled Hello-World-new-tab
